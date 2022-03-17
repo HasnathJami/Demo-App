@@ -1,4 +1,4 @@
-# thenetninjafluttercourse
+# Flutter Demo Project
 
 A new Flutter project.
 
